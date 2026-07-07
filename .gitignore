@@ -1,0 +1,9 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Never commit real secrets if you copy them into local files for testing
+*.env
+secrets.json
+
